@@ -1,0 +1,13 @@
+#food-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.food-card{
+    border: 1px solid red;
+    width: 20vw;
+    height: 20vh; 
+    padding: 2em;
+    margin: 1em;
+    overflow: scroll;
+}
